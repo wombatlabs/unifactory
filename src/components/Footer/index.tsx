@@ -83,23 +83,14 @@ const returnIconByUri = (uri: string) => {
 }
 
 export default function Footer() {
-  const { projectName, socialLinks, disableSourceCopyright } = useAppState()
+  const { projectName, socialLinks } = useAppState()
   const year = new Date().getFullYear()
   const copyright = `© ${projectName} ${year}`
-  const SourceCopyright = (
-    <>
-      Powered by{' '}
-      <a href="https://onout.org/dex" target="_blank" rel="noopener noreferrer">
-        OnOut - no-code tool for creating DEX
-      </a>
-    </>
-  )
 
   return (
     <FooterWrapper>
       <Content>
         {projectName && <Copyright>{copyright}</Copyright>}
-        {!disableSourceCopyright && <Copyright pale>{SourceCopyright}</Copyright>}
 
         {socialLinks.length ? (
           <SocialLinksWrapper>
