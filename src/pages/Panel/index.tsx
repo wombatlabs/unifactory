@@ -227,9 +227,6 @@ export default function Panel({ setDomainDataTrigger }: Props) {
       { tabKey: PanelTab.interface, tabName: 'interface' },
     ]
 
-    if (!wordpressData?.wpVersion) {
-      tabs.push({ tabKey: PanelTab.additions, tabName: 'buyPremium' })
-    }
     if (chainId === STORAGE_NETWORK_ID) {
       tabs.push({ tabKey: PanelTab.migration, tabName: 'migration' })
     }
