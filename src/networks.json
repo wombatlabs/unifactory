@@ -18,6 +18,24 @@
       "symbol": "WETH"
     }
   },
+  "1442": {
+    "name": "Genesis",
+    "rpc": "https://rpc.genesiscore.org",
+    "chainId": 1442,
+    "explorer": "https://explorer.genesiscore.org",
+    "color": "#0C0C0C",
+    "multicall": "",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "AGORA",
+      "symbol": "AGORA"
+    },
+    "wrappedToken": {
+      "address": "",
+      "name": "Wrapped AGORA",
+      "symbol": "WAGORA"
+    }
+  },
   "71111": {
     "name": "Guapcoin X Chain",
     "rpc": "https://rpc-mainnet.guapcoinx.com",
@@ -347,25 +365,6 @@
       "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
       "name": "Wrapped AVAX",
       "symbol": "WAVAX"
-    }
-  },
-  "1442": {
-    "name": "Polygon zkEVM-testnet",
-    "rpc": "https://rpc.public.zkevm-test.net",
-    "chainId": 1442,
-    "explorer": "https://testnet-zkevm.polygonscan.com",
-    "color": "#D64F4A",
-    "storage": "0x2f87D23cd8d788bC9a32E540cdd8253F9b1F54CF",
-    "multicall": "0x48d7ac38530697aDB91061B6D141C8c763edE565",
-    "baseCurrency": {
-      "decimals": 18,
-      "name": "ETH",
-      "symbol": "ETH"
-    },
-    "wrappedToken": {
-      "address": "0x83048f0Bf34FEeD8CEd419455a4320A735a92e9d",
-      "name": "Wrapped ETH",
-      "symbol": "WETH"
     }
   },
   "1101": {
