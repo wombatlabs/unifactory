@@ -295,7 +295,6 @@
   "confirmPaymentTransaction": "Confirm the payment transaction",
   "saveYourAdditionKey": "Save your add-on key",
   "buy": "Buy",
-  "noticeAboutOnoutFee": "Please note that a {{onoutFee}} onout.org fee will be deducted from the admin's fee (you will get {{adminFee}}). However, you can purchase a premium version to disable the onout.org fee.",
   "getAbilityToRemoveCopyrightOf": "Get the option to remove the copyright of",
   "removeCopyrightOf": "Remove the copyright of",
   "buyPremium": "Buy premium",

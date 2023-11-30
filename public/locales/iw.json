@@ -288,7 +288,6 @@
   "confirmPaymentTransaction": "אשר את עסקת התשלום",
   "saveYourAdditionKey": "שמור את מקש ההרחבה שלך",
   "buy": "לקנות",
-  "noticeAboutOnoutFee": "שימו לב ש {{onoutFee}} onout.org העמלה תנוכה מעמלת המנהל (תקבל {{adminFee}}). עם זאת, אתה יכול לרכוש גרסת פרימיום כדי להשבית את onout.org חינם.",
   "getAbilityToRemoveCopyrightOf": "קבל את האפשרות להסיר את זכויות היוצרים של",
   "removeCopyrightOf": "הסר את זכויות היוצרים של",
   "buyPremium": "לקנות פרימיום",

@@ -288,7 +288,6 @@
   "confirmPaymentTransaction": "确认付款交易",
   "saveYourAdditionKey": "保存您的附加密钥",
   "buy": "购买",
-  "noticeAboutOnoutFee": "请注意，{{onoutFee}}onout.org 费用将从管理员的费用中扣除(您将得到{{adminFee}}). 但是，您可以购买高级版本来禁用onout.org 免费。",
   "getAbilityToRemoveCopyrightOf": "获得删除版权的选项",
   "removeCopyrightOf": "删除",
   "buyPremium": "购买保费",

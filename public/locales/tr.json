@@ -295,7 +295,6 @@
   "confirmPaymentTransaction": "Ödeme işlemini onaylayın",
   "saveYourAdditionKey": "Eklenti anahtarınızı kaydedin",
   "buy": "Almak",
-  "noticeAboutOnoutFee": "Lütfen bir {{onoutFee}} onout.org ücret, yöneticinin ücretinden düşülecektir (alacaksın {{adminFee}}). Ancak, devre dışı bırakmak için premium bir sürüm satın alabilirsiniz onout.org ücret.",
   "getAbilityToRemoveCopyrightOf": "Telif hakkını kaldırma seçeneğini edinin",
   "removeCopyrightOf": "Telif hakkını kaldırın",
   "buyPremium": "Premium satın al",

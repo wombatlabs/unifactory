@@ -287,7 +287,6 @@
   "confirmPaymentTransaction": "Подтвердите платежную транзакцию",
   "saveYourAdditionKey": "Сохраните ключ дополнения",
   "buy": "Купить",
-  "noticeAboutOnoutFee": "Пожалуйста, обратите внимание, что {{onoutFee}} onout.org комиссии будет вычтено из комиссии администратора (вы получите {{adminFee}}). Однако вы можете приобрести премиум-версию, чтобы отключить onout.org комиссию.",
   "getAbilityToRemoveCopyrightOf": "Получите возможность удалить авторские права",
   "removeCopyrightOf": "Удалить авторские права",
   "buyPremium": "Купить премиум",

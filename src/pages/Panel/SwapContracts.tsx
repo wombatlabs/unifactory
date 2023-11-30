@@ -29,8 +29,7 @@ import { PartitionWrapper } from './index'
 import { isValidAddress, setFactoryOption, deploySwapContracts } from 'utils/contract'
 import { saveAppData } from 'utils/storage'
 import useWordpressInfo from 'hooks/useWordpressInfo'
-import { PanelTab } from './'
-import { StyledPurchaseButton, List, NumList } from './styled'
+import { List, NumList } from './styled'
 
 const Title = styled.h3`
   font-weight: 400;
@@ -134,7 +133,7 @@ const setValidValue = ({
 }
 
 function SwapContracts(props: any) {
-  const { domain, pending, setPending, theme, wrappedToken, setTab } = props
+  const { domain, pending, setPending, theme, wrappedToken } = props
   const { t } = useTranslation()
   const dispatch = useDispatch()
   const { library, account, chainId } = useActiveWeb3React()
@@ -546,15 +545,6 @@ function SwapContracts(props: any) {
               </OptionWrapper>
             ) : (
               <>
-                <TextBlock type="notice">
-                  {t('noticeAboutOnoutFee', {
-                    onoutFee: '20%',
-                    adminFee: '80%',
-                  })}
-                  <StyledPurchaseButton onClick={() => setTab(PanelTab.additions)} width="100%" margin="12px 0 0">
-                    {t('purchase')}
-                  </StyledPurchaseButton>
-                </TextBlock>
               </>
             )}
 

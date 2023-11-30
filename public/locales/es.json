@@ -288,7 +288,6 @@
   "confirmPaymentTransaction": "Confirmar la transacción de pago",
   "saveYourAdditionKey": "Guarde su clave de complemento",
   "buy": "Comprar",
-  "noticeAboutOnoutFee": "Tenga en cuenta que un {{onoutFee}} onout.org la tarifa se deducirá de la tarifa del administrador (usted conseguirá {{adminFee}}). Sin embargo, puede comprar una versión premium para deshabilitar la onout.org tarifa.",
   "getAbilityToRemoveCopyrightOf": "Obtenga la opción de eliminar los derechos de autor de",
   "removeCopyrightOf": "Eliminar los derechos de autor de",
   "buyPremium": "Comprar premium",

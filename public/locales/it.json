@@ -295,7 +295,6 @@
   "confirmPaymentTransaction": "Confermare la transazione di pagamento",
   "saveYourAdditionKey": "Salva la tua chiave add-on",
   "buy": "Acquistare",
-  "noticeAboutOnoutFee": "Si prega di notare che un {{onoutFee}} onout.org la commissione verrà detratta dalla commissione dell'amministratore (si otterrà {{adminFee}}). Tuttavia, è possibile acquistare una versione premium per disabilitare la onout.org tassa.",
   "getAbilityToRemoveCopyrightOf": "Ottieni l'opzione per rimuovere il copyright di",
   "removeCopyrightOf": "Rimuovere il copyright di",
   "buyPremium": "Acquista premium",
