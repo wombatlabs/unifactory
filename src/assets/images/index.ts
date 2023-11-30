@@ -27,6 +27,7 @@ import SHIBARIUM from './shibarium.png'
 import GUAPX from './guapx.png'
 import SCROLL_ETH from './scroll.io.png'
 import Q from './q.png'
+import AGORA from './agora.png'
 
 
 export const CURRENCY = {
@@ -58,6 +59,7 @@ export const CURRENCY = {
   OP_BNB,
   Q,
   GUAPX,
+  AGORA,
 
   // ------------
 
@@ -101,7 +103,7 @@ export const CURRENCY = {
   534: CNDL,
   2021: EDG,
 
-  1442: ETH,
+  1442: AGORA,
   1101: ETH,
 
   // Fokawa
