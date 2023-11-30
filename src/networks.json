@@ -24,14 +24,14 @@
     "chainId": 1442,
     "explorer": "https://explorer.genesiscore.org",
     "color": "#0C0C0C",
-    "multicall": "",
+    "multicall": "0xD5340d9ED1394f28c37c6778fa3C8544d8C6Bb31",
     "baseCurrency": {
       "decimals": 18,
       "name": "AGORA",
       "symbol": "AGORA"
     },
     "wrappedToken": {
-      "address": "",
+      "address": "0x827bfaB5265a9D1F5f8edb7F6c00382849d68721",
       "name": "Wrapped AGORA",
       "symbol": "WAGORA"
     }
